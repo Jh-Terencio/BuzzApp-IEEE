@@ -5,4 +5,4 @@
 # Banckend: 
 
 # Frontend:
-* Os responsáveis pelo frontend (Terêncio, Bianca e Isa) ficaram encarregados de crias as telas do nosso app e fazer a navegação entre elas.
+* Os responsáveis pelo frontend (Terêncio, Bianca e Isa) ficaram encarregados de criar as telas do nosso app e fazer a navegação entre elas.
